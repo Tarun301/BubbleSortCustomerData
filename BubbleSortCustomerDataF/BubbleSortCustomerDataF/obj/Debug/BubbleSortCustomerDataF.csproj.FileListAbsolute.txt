@@ -1,0 +1,14 @@
+C:\Users\tksai\source\repos\BubbleSortCustomerDataF\BubbleSortCustomerDataF\bin\Debug\BubbleSortCustomerDataF.exe.config
+C:\Users\tksai\source\repos\BubbleSortCustomerDataF\BubbleSortCustomerDataF\bin\Debug\BubbleSortCustomerDataF.exe
+C:\Users\tksai\source\repos\BubbleSortCustomerDataF\BubbleSortCustomerDataF\bin\Debug\BubbleSortCustomerDataF.pdb
+C:\Users\tksai\source\repos\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.csprojAssemblyReference.cache
+C:\Users\tksai\source\repos\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.csproj.CoreCompileInputs.cache
+C:\Users\tksai\source\repos\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.exe
+C:\Users\tksai\source\repos\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.pdb
+C:\Users\tksai\OneDrive\Desktop\IT6033_DataStructures&Algorithms_92060015\BubbleSortCustomerDataF\BubbleSortCustomerDataF\bin\Debug\BubbleSortCustomerDataF.exe.config
+C:\Users\tksai\OneDrive\Desktop\IT6033_DataStructures&Algorithms_92060015\BubbleSortCustomerDataF\BubbleSortCustomerDataF\bin\Debug\BubbleSortCustomerDataF.exe
+C:\Users\tksai\OneDrive\Desktop\IT6033_DataStructures&Algorithms_92060015\BubbleSortCustomerDataF\BubbleSortCustomerDataF\bin\Debug\BubbleSortCustomerDataF.pdb
+C:\Users\tksai\OneDrive\Desktop\IT6033_DataStructures&Algorithms_92060015\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.csprojAssemblyReference.cache
+C:\Users\tksai\OneDrive\Desktop\IT6033_DataStructures&Algorithms_92060015\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.csproj.CoreCompileInputs.cache
+C:\Users\tksai\OneDrive\Desktop\IT6033_DataStructures&Algorithms_92060015\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.exe
+C:\Users\tksai\OneDrive\Desktop\IT6033_DataStructures&Algorithms_92060015\BubbleSortCustomerDataF\BubbleSortCustomerDataF\obj\Debug\BubbleSortCustomerDataF.pdb
